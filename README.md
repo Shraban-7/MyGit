@@ -1,2 +1,2 @@
 # MyGit
-directory
+My first repository on Git 
